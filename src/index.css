@@ -1,0 +1,4 @@
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; min-width: 320px; background: #f2f6fb; }
+button, input { font: inherit; }
